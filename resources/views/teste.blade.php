@@ -30,6 +30,10 @@
                 <h2 class="text-xl font-semibold">Card 3</h2>
                 <p class="text-gray-600 mt-2">Conteúdo do terceiro card.</p>
             </div>
+            <div class="bg-white p-4 shadow-md rounded-lg">
+                <h2 class="text-xl font-semibold">Card 3</h2>
+                <p class="text-gray-600 mt-2">aaaaaaaaaaaaaa</p>
+            </div>
         </section>
     </main>
     
